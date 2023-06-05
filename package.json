@@ -4,7 +4,7 @@
   "description": "Carlock by jduarte",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\"",
+    "test": "npm install",
     "start": "nodemon index.js",
     "build": "echo \"No build command specified\""
   },
