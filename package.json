@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npm install",
-    "start": "nodemon index.js",
-    "build": "npm start"
+    "start": "nodemon index.js"
   },
   "author": "Jduarte",
   "license": "ISC",
