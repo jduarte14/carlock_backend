@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npm install",
-    "start": "nodemon index.js",
-    "build": "echo \"No build command specified\""
+    "start": "nodemon index.js"
   },
   "author": "Jduarte",
   "license": "ISC",
